@@ -5,6 +5,7 @@
 !*/cache/index.html
 !*/cache/.htaccess
 /nbproject/private/
+application/config/development/database.php
 
 # Covers JetBrains IDEs: IntelliJ, RubyMine, PhpStorm, AppCode, PyCharm, CLion, Android Studio and Webstorm
 # Reference: https://intellij-support.jetbrains.com/hc/en-us/articles/206544839
