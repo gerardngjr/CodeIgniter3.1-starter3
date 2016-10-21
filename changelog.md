@@ -1,9 +1,9 @@
 # Change Log for Starter-Routes
 All notable changes to this project will be documented in this file. Created by Gerard Ng and Ninew Mai
 
-## [0.1.0] - [date to be determined]
+## [1.0.0] - 2016-10-21
 ### Added
-- space reserved for final release
+- lab 5 release version 1.0 @New3 @gerardng
 
 ### Changed - 2016-10-21 
 - Created the template-shopping.php to show the shopping view page @New3
